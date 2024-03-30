@@ -1,0 +1,13 @@
+1) To start learning django first we should have python installed in our system.
+2) If python is already installed then its good to go and if not then go to 'https://www.python.org/downloads/' and download for your system.
+3) After that , create the repository/ folder where we want our django project.
+4) After creating folder need to create a virtual enviroment, so that all the packages we will install during our project will remain inside that folder only.
+5) For creating virtual enviroment open command prompt.
+6) We can create virtual enviroment by 2 method :-
+          a) - using command 'python -m venv venv'
+          b) pip install virtualenv
+7) After this a folder named 'venv' will be created in your folder.
+8) To use the virtual enviroment , we need to activate it by using command 'venv\Scripts\activate' (for method a).
+9) If run successfully venv will wriiten before the path in cmd.
+10) Then we can install django by using command , 'pip install django'.
+11) After that we can check if django is installed by checking its version.
